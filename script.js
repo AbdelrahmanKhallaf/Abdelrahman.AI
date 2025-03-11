@@ -182,7 +182,7 @@ const displayLoadingAnimation = () => {
     const loadingHtml = `
 
         <div class="message__content">
-            <img class="message__avatar" src="assets/240_F_432771849_7T3ssTqkxcpiNkroqekDsVhJY8NCLhGI.jpg" alt="Gemini avatar">
+            <img class="message__avatar" src="assets/240_F_432771849_7T3ssTqkxcpiNkroqekDsVhJY8NCLhGI.jpg">
             <p class="message__text"></p>
             <div class="message__loading-indicator">
                 <div class="message__loading-bar"></div>
